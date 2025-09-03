@@ -6,7 +6,7 @@ lib=Library()
 s1=Book("Giữa hai ngọn sóng","Hà Nguyên Bảo",2025)
 s2=Book("Hai ngọn hải đăng","Hà Đăng Vũ",2019)
 s3=Book("Muôn kiếp nhân sinh","Nguyên Phong",2020)
-s4=Book("Truyện Kiều","Nguyễn Du",1820,available=False)
+s4=Book("Tình yêu muôn thuở","Nguyễn Văn Anh",1820,available=False)
 
 lib.add_book(s1)
 lib.add_book(s2)
