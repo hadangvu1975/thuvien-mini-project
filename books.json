@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Giữa hai ngọn sóng",
+    "author": "Hà Nguyên Bảo",
+    "year": 2025,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title": "Hai ngọn hải đăng",
+    "author": "Hà Đăng Vũ",
+    "year": 2019,
+    "available": true
+  },
+  {
+    "id": 3,
+    "title": "Muôn kiếp nhân sinh",
+    "author": "Nguyên Phong",
+    "year": 2020,
+    "available": true
+  },
+  {
+    "id": 4,
+    "title": "Truyện Kiều",
+    "author": "Nguyễn Du",
+    "year": 1820,
+    "available": false
+  },
+  {
+    "id": 5,
+    "title": "Đất rừng phương nam",
+    "author": "Đoàn Giỏi",
+    "year": 1986,
+    "available": true
+  }
+]
